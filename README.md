@@ -11,7 +11,7 @@ Copy code
 git clone https://github.com/your-username/face-recognition-attendance.git
 
 Change into the project directory:
-Copy code
+Copy code-:
 cd face-recognition-attendance
 
 Install pyhton and all other necessary packages before running the project
@@ -22,7 +22,7 @@ Make sure you have Python installed on your system.
 Update the attendance.py script and modify the file paths or configurations according to your needs.
 
 Run the attendance.py script to start the attendance system:
-Copy code
+Copy code-:
 python attendance.py
 
 The system will open the webcam feed and start recognizing faces. If a recognized face matches a student's record, their attendance will be marked in the Excel spreadsheet.
