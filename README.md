@@ -15,7 +15,7 @@ Copy code-:
 
 cd face-recognition-attendance
 
-Install pyhton and all other necessary packages before running the project
+Install python and all other necessary packages before running the project
 
 # Usage
 Make sure you have Python installed on your system.
