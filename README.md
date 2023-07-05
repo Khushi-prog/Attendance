@@ -12,6 +12,7 @@ git clone https://github.com/your-username/face-recognition-attendance.git
 
 Change into the project directory:
 Copy code-:
+
 cd face-recognition-attendance
 
 Install pyhton and all other necessary packages before running the project
@@ -23,6 +24,7 @@ Update the attendance.py script and modify the file paths or configurations acco
 
 Run the attendance.py script to start the attendance system:
 Copy code-:
+
 python attendance.py
 
 The system will open the webcam feed and start recognizing faces. If a recognized face matches a student's record, their attendance will be marked in the Excel spreadsheet.
@@ -38,6 +40,12 @@ Feel free to extend the project by training your own face recognition model or i
 
 # Acknowledgements
 OpenCV - Open Source Computer Vision Library
+
 face_recognition - Simple face recognition library
+
 Openpyxl - Python library for Excel file manipulation
+
+numpy - Library for array operations
+
+cv2 - OpenCV library for computer vision task
 
